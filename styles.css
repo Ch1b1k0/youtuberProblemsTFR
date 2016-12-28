@@ -1,0 +1,26 @@
+header {
+	font-family: 'Kumar One', cursive;
+	color: red;
+}
+
+body {
+	background-image: url("http://www.hdbloggers.net/wp-content/uploads/2016/11/Awesome-Wallpapers.jpg");
+}
+
+#Awesome {
+	font-size: 15pt;
+	color: white;
+	color: pink;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.video-played {
+	width: 500px;
+	height: 400px;
+}
+
+.fa-fa-cloud {
+	color: red;
+	width: 50px;
+	height: 40px;
+}
